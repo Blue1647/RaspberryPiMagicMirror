@@ -1,0 +1,12 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    background: black;
+    color: white;
+    font-size: 62px;
+}
+#time{
+    float: left;
+}
+#weather{
+    float: left;
+}
